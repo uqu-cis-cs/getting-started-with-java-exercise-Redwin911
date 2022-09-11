@@ -11,9 +11,9 @@ package edu.uqu.cs;
  *      b.	Change <Student ID> to your student ID
  */
  
-puplic app FirstExercise
+puplic class app 
 {
-    private static void main( String[] args )
+    puplic static void main( String[] args )
     {
         System.out.println( "Hello:Radwan,443009138" );
     }
